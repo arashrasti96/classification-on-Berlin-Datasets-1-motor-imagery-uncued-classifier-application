@@ -13,8 +13,8 @@
 % project Developer: Arash Rasti-meymandi
 
 % help: 
-%     place the *.m file in the same diractory as Datasets in which
-%     ``BCICIV_calib_ds1... .m'' files exist and simply run the program.
+%     place the *.m file in the same directory as Datasets in which
+%     ``BCICIV_calib_ds1... .mat'' files exist and simply run the program.
 
 %% initialization
 clc, clear all, close all;
