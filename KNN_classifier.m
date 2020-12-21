@@ -8,10 +8,10 @@
 %                                 #  ###   ###  #
 %                                 ###############
 %
-% Project Name: classification of Right or Left movement imagination
-% using motor imagery in motor cortex area
+% Project Name: classification of right hand/left movement imagination using motor imagery EEG signals acquired from motor cortex area
+% 
 %
-% Project Dataset:   Berlin BCI
+% Project Dataset:   Berlin BCI (http://www.bbci.de/competition/iv/desc_1.html)
 %
 % project Developer: Arash Rasti-meymandi
 %
